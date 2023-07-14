@@ -1,4 +1,4 @@
-# js-prototype-tools.github.io
+# Javascript Prototyping Tools
 A collection of tools that make prototyping Javascript-based projects fast, easy, and maybe even beautiful.
 
 ## Data
