@@ -16,3 +16,10 @@ The layout engine that ships with React Native. The site hosts a playground for 
 ## Legal
 ### [Choose a License](https://choosealicense.com/)
 A guide to choosing an open-source license for all sorts of projects. Created and maintained by Github.
+
+## Sandbox
+### [CodeSandbox](https://codesandbox.io/docs/learn/introduction/overview)
+A cloud development platform that empowers anyone to code, collaborate, and ship projects of any size from any device in record time.
+
+### [Codepen](https://codepen.io/)
+The best place to build, test, and discover front-end code.
