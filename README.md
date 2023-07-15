@@ -17,7 +17,7 @@ The layout engine that ships with React Native. The site hosts a playground for 
 Easily convert CSS text to React Native stylesheet objects.
 
 ### [`expo-google-fonts`](https://github.com/expo/google-fonts)
-Use any of the 1000+ fonts (and their variants) from fonts.google.com in your Expo app. 
+Use any of the 1000+ fonts (and their variants) from fonts.google.com in your Expo app.  
 👩‍💻 `@expo-google-fonts/dev`
 If you are trying out lots of different fonts, you can try using the @expo-google-fonts/dev package.
 
