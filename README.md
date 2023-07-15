@@ -20,6 +20,9 @@ Use any of the 1000+ fonts (and their variants) from fonts.google.com in your Ex
 
 If you are trying out lots of different fonts, you can try using the `@expo-google-fonts/dev` package. You can import any font style from any Expo Google Fonts package from it. It will load the fonts over the network at runtime instead of adding the asset as a file to your project, so it may take longer for your app to get to interactivity at startup, but it is extremely convenient for playing around with any style that you want.
 
+### [Material Design Theme Builder](https://m3.material.io/theme-builder)
+Generate a dynamic color palette for M3 from an image or by using the custom color picker.
+
 ## Legal
 ### [Choose a License](https://choosealicense.com/)
 A guide to choosing an open-source license for all sorts of projects. Created and maintained by Github.
