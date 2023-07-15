@@ -16,6 +16,9 @@ The layout engine that ships with React Native. The site hosts a playground for 
 ### [CSS to JSX](https://csstox.surge.sh/)
 Easily convert CSS text to React Native stylesheet objects.
 
+### [`expo-google-fonts`](https://github.com/expo/google-fonts)
+Use any of the 1000+ fonts (and their variants) from fonts.google.com in your Expo app.
+
 ## Legal
 ### [Choose a License](https://choosealicense.com/)
 A guide to choosing an open-source license for all sorts of projects. Created and maintained by Github.
