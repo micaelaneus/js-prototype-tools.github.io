@@ -1,5 +1,4 @@
-# Javascript Prototyping Tools
-A collection of tools that make prototyping Javascript-based projects fast, easy, and maybe even beautiful.
+# A collection of tools that make prototyping Javascript-based projects fast, easy, and maybe even beautiful.
 
 ## Data
 ### [JSON Placeholder data](https://jsonplaceholder.typicode.com/)
